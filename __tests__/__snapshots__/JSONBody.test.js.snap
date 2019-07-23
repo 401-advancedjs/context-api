@@ -1,7 +1,0 @@
-// Jest Snapshot v1, https://goo.gl/fbAQLP
-
-exports[`<JSONBody /> rendering follows the snapshot 1`] = `
-<textarea
-  placeholder="Raw JSON Body"
-/>
-`;
